@@ -3,10 +3,12 @@ on:
     branches:
       - main
       - develop
+      - nesrine
   pull_request:
     branches:
       - main
       - develop
+      - nesrine
  
 jobs:
   build:
